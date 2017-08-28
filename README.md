@@ -8,3 +8,4 @@ Input Kafka data type
 "id","name","age","address"
 
 
+https://neil-tutorial.blogspot.tw/2017/01/spark-streaming-for-kakfa.html
